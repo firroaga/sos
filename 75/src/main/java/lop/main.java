@@ -4,7 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int x = 30;
+		int x = 40;
 
 	      if( x == 10 ){
 	         System.out.print("Value of X is 10");
