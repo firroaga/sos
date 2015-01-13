@@ -806,3 +806,18 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:j
 2015-01-13 07:00:21,782 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/main/resources
 2015-01-13 07:00:21,784 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-01-13 07:00:21,784 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/test/resources
+2015-01-13 07:44:56,316 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 75:75:0.0.1-SNAPSHOT @ /home/firro/git/75/pom.xml.
+2015-01-13 07:44:56,480 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-13 07:44:56,480 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/main/resources
+2015-01-13 07:44:56,482 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-13 07:44:56,482 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/test/resources
+2015-01-13 07:45:06,988 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 75:75:0.0.1-SNAPSHOT @ /home/firro/git/75/pom.xml.
+2015-01-13 07:45:07,172 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-13 07:45:07,173 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/main/resources
+2015-01-13 07:45:07,176 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-13 07:45:07,176 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/test/resources
+2015-01-13 07:45:10,394 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 75:75:0.0.1-SNAPSHOT @ /home/firro/git/75/pom.xml.
+2015-01-13 07:45:10,506 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-13 07:45:10,506 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/main/resources
+2015-01-13 07:45:10,509 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-13 07:45:10,509 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/test/resources
