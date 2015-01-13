@@ -772,3 +772,33 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:j
 2015-01-06 03:07:00,998 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/main/resources
 2015-01-06 03:07:01,000 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-01-06 03:07:01,000 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/test/resources
+2015-01-06 03:12:53,266 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-06 03:12:53,267 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/main/resources
+2015-01-06 03:12:53,269 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-06 03:12:53,270 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/test/resources
+2015-01-06 05:15:49,282 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 75:75:0.0.1-SNAPSHOT @ /home/firro/git/75/pom.xml.
+2015-01-06 05:15:50,845 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-06 05:15:50,845 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/main/resources
+2015-01-06 05:15:50,853 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-06 05:15:50,854 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/test/resources
+2015-01-06 05:15:52,221 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2015-01-06 05:15:52,433 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2015-01-06 05:15:52,538 [Worker-5] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2015-01-06 05:15:52,625 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/2.1.6/neo4j-kernel-2.1.6-sources.jar
+2015-01-06 05:15:54,887 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/neo4j/neo4j-kernel/2.1.6/neo4j-kernel-2.1.6-sources.jar
+2015-01-06 05:15:54,942 [Worker-5] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.neo4j:neo4j-kernel:2.1.6
+2015-01-06 05:15:54,981 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/2.1.6/neo4j-primitive-collections-2.1.6-sources.jar
+2015-01-06 05:15:55,108 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/neo4j/neo4j-primitive-collections/2.1.6/neo4j-primitive-collections-2.1.6-sources.jar
+2015-01-06 05:15:55,176 [Worker-5] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.neo4j:neo4j-primitive-collections:2.1.6
+2015-01-06 05:15:55,255 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1-sources.jar
+2015-01-06 05:15:55,392 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1-sources.jar
+2015-01-06 05:15:55,555 [Worker-5] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1
+2015-01-06 05:15:55,982 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-06 05:15:55,982 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/main/resources
+2015-01-06 05:15:55,984 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-06 05:15:55,985 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/test/resources
+2015-01-13 06:54:20,881 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 75:75:0.0.1-SNAPSHOT @ /home/firro/git/75/pom.xml.
+2015-01-13 06:54:21,466 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-13 06:54:21,467 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/main/resources
+2015-01-13 06:54:21,470 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-01-13 06:54:21,470 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/firro/git/75/src/test/resources
